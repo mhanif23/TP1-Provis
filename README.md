@@ -42,4 +42,4 @@ Aplikasi ini menggunakan input dari pengguna melalui terminal untuk menjalankan 
 Aplikasi Pembelajaran Online Dart ini merupakan contoh praktis dari penerapan OOP dan pemrograman asinkronus dalam pembuatan aplikasi yang interaktif dan berstruktur. Dengan menggunakan Dart, kita dapat membangun aplikasi yang bersih, modular, dan mudah dikelola.
 
 ## Screenshot
-![Diagram Alur Aplikasi](bin/Screenshot/images.png "Diagram Alur Aplikasi Pembelajaran Online")
+![Diagram Alur Aplikasi](bin/Screenshot/image.png "Diagram Alur Aplikasi Pembelajaran Online")
